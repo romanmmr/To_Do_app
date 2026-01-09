@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Icon-Trash" transform="matrix(15.6593,0,0,15.6593,46.4297,-1.09615)">
+        <path id="Fill-6" d="M8,10L10,10L10,26L8,26L8,10Z"/>
+        <path id="Fill-7" d="M12,10L14,10L14,26L12,26L12,10Z"/>
+        <path id="Fill-8" d="M16,10L18,10L18,26L16,26L16,10Z"/>
+        <path id="Fill-9" d="M0,4L26,4L26,6L0,6L0,4Z"/>
+        <path id="Fill-10" d="M17.93,5L16.07,5L16.07,3C16.07,2.41 15.59,1.93 15,1.93L11,1.93C10.41,1.93 9.93,2.41 9.93,3L9.93,5L8.07,5L8.07,3C8.07,1.384 9.385,0.07 11,0.07L15,0.07C16.615,0.07 17.93,1.384 17.93,3L17.93,5"/>
+        <path id="Fill-11" d="M19,32L7,32C5.386,32 3.973,30.691 3.85,29.082L2.003,5.077L3.997,4.923L5.844,28.929C5.888,29.5 6.428,30 7,30L19,30C19.572,30 20.112,29.5 20.156,28.93L22.003,4.923L23.997,5.077L22.15,29.082C22.027,30.691 20.614,32 19,32"/>
+    </g>
+</svg>
